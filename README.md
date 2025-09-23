@@ -1,1 +1,2 @@
 # CMSC320_Group_Project
+This project aims to create a model to predict how factors such as gender, age, or class impacted the survival rate of passengers on the Titanic. By training a logistic regression model on the survival data of a subset of the passengers, we can predict the survival of the rest of the passengers and evaluate the existence of a correlation between the above-mentioned factors.
